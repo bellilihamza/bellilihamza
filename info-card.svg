@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 270" role="img">
+<style>.bg{fill:#0d1117}.title{fill:#f0f6fc;font:bold 18px monospace}.key{fill:#69f0a0;font:bold 14px monospace}.value{fill:#c9d1d9;font:14px monospace}@keyframes show{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}.line{animation:show .5s ease-out both}</style>
+<rect class="bg" width="490" height="270" rx="10"/>
+<text class="title" x="28" y="42">bellilihamza@github</text>
+<path stroke="#30363d" d="M28 58h434"/>
+<g class="line" style="animation-delay:.00s"><text class="key" x="28" y="94">Now       </text><text class="value" x="145" y="94">Building useful things</text></g>
+<g class="line" style="animation-delay:.12s"><text class="key" x="28" y="128">Prev      </text><text class="value" x="145" y="128">Always learning</text></g>
+<g class="line" style="animation-delay:.24s"><text class="key" x="28" y="162">Stack     </text><text class="value" x="145" y="162">Python · TypeScript · Cloud</text></g>
+<g class="line" style="animation-delay:.36s"><text class="key" x="28" y="196">Focus     </text><text class="value" x="145" y="196">Clean systems and good UX</text></g>
+</svg>
